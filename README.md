@@ -11,7 +11,7 @@ Terdapat Menu pilihan:
 
 #### Instal
 ```
-• git clone https://github.com/R3LI4NT/WP-Extractor
+• git clone https://github.com/Yoga913/ExtractEaseWP
 • cd ExtractEaseWP
 • pip3 install -r requirements.txt
 • python3 ExtractEaseWP
